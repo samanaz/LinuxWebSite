@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/samanaus/linuxwebsite/_apis/build/status/linuxwebsite-CI?branchName=master)](https://dev.azure.com/samanaus/linuxwebsite/_build/latest?definitionId=5?branchName=master)
+
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
