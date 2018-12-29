@@ -13,7 +13,7 @@ namespace simpleapp.Pages
         public void OnGet()
         {
             Message = "Your application description page.";
-            Message = "The first code change.";
+            Message = "The second code change.";
         }
     }
 }
